@@ -56,9 +56,6 @@
 Забегая вперед, скажу, что решил эту задачу конструкцией 
 sum(case when)
 чтобы посчитать количество клиентов, дошедших до определенного количества покупок.
-<a href="https://ibb.co/P6K6cP8"><img src="https://i.ibb.co/P6K6cP8/2345678.jpg" alt="2345678" border="0"></a>
-![image](https://github.com/Gerasimov-IT/Rabbit-engine/assets/146314877/ff3e5229-c20e-42c7-a9ca-d9925a8616fe)
-<p>
 <ol>
   <li>Задача №1: Проставить каждой покупке свой ранг, который покажет, какой по счету является данная покупка в рамках всей таблицы.</li>
   <li>Задача №2: Проставить каждой покупке свой ранг, который покажет, какой по счету является данная покупка в рамках всех покупок клиента.</li>
@@ -114,4 +111,4 @@ sum(case when)
 
 ## Контактная информация
 - Email: sskaaem@gmail.com
-- LinkedIn: https://www.linkedin.com/in/username/
+- LinkedIn: https://www.linkedin.com/in/username/GerasimovIT
